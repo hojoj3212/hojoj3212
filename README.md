@@ -44,3 +44,5 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
   </a>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/serj123?theme=light&font=Libre%20Caslon%20Text)
